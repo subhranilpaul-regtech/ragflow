@@ -244,7 +244,7 @@ function AdminLogin() {
               </CardFooter>
             </Card>
 
-            <div className="mt-8 flex justify-center">
+            <div className="mt-8 flex  justify-center">
               <ThemeSwitch />
             </div>
           </div>
